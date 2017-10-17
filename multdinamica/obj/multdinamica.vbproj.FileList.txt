@@ -1,0 +1,10 @@
+bin\Debug\multdinamica.exe
+bin\Debug\multdinamica.pdb
+bin\Debug\multdinamica.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\multdinamica.Form1.resources
+obj\Debug\multdinamica.Resources.resources
+obj\Debug\multdinamica.vbproj.GenerateResource.Cache
+obj\Debug\multdinamica.exe
+obj\Debug\multdinamica.xml
+obj\Debug\multdinamica.pdb
